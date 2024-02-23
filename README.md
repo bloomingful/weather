@@ -1,6 +1,6 @@
 # Weather
 
-A weather application using the OpenWeatherMap API built with Tauri using sveltekit.
+A weather application using the OpenWeatherMap API built with Tauri using sveltekit front-end and rust back-end.
 
 ## Building
 
